@@ -1,16 +1,20 @@
-### Hi there 👋
+Software development has been my passion since the school days. It was and still remains a riveting fractal puzzle, which, if solved properly, can undoubtedly transform our lives for better.
 
-<!--
-**EnoughTea/EnoughTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests/skills
 
-Here are some ideas to get you started:
+####
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="32" height="32"/>
+Web back-ends and microservices via Play, Akka or http4s.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/>
+Desktop apps mostly, sometime with P/Invoke and WinAPI. I rarely use ASP.NET.
+
+####
+<img align="left" src="http://rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="32" height="32"/>
+For fun, sadly. I wish I could use Rust at work.
+
+### Everybody loves stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnoughTea&show_icons=true&locale=en&include_all_commits=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=EnoughTea&show_icons=true&locale=en&layout=compact)
