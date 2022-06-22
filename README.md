@@ -8,7 +8,7 @@ Web back-ends and microservices via Play, Akka or http4s.
 
 ####
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/>
-Desktop apps mostly, sometime with P/Invoke and WinAPI. I rarely use ASP.NET.
+Desktop apps mostly, sometimes with P/Invoke and WinAPI. I rarely use ASP.NET.
 
 ####
 <img align="left" src="http://rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="32" height="32"/>
