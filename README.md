@@ -12,7 +12,7 @@ Desktop apps mostly, sometimes with P/Invoke and WinAPI. I rarely use ASP.NET.
 
 ####
 <img align="left" src="http://rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="32" height="32"/>
-For fun, sadly. I wish I could use Rust at work.
+For fun :)
 
 ### Everybody loves stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnoughTea&show_icons=true&locale=en&include_all_commits=true&count_private=true)
